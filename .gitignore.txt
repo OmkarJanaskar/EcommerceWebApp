@@ -1,0 +1,18 @@
+# ===== Angular Frontend =====
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.env
+Frontend/.angular/cache/
+
+# ===== ASP.NET Core Backend =====
+EcommerceAPI/bin/
+EcommerceAPI/obj/
+EcommerceAPI/.vs/
+EcommerceAPI/appsettings.Development.json
+
+# ===== General =====
+*.user
+*.log
+*.db
+Thumbs.db
+.vscode/
